@@ -1,6 +1,7 @@
-### Hi there 👋
+# [![akshat bhat header](https://raw.githubusercontent.com/AkshatBhat/AkshatBhat/main/Github%20Banner.png?token=ALOALANAQCVNIHN6PYW7FJ27SCIF4)](https://github.com/AkshatBhat)
 
 <!--
+### Hi there 👋
 **AkshatBhat/AkshatBhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
