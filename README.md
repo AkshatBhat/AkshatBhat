@@ -8,7 +8,8 @@
 </a>
 
 ### Spotify Playing 🎧
-[![Spotify](https://47k363e9vyzn0lhnki3cd2r2g.vercel.app/api/spotify)](https://open.spotify.com/user/47k363e9vyzn0lhnki3cd2r2g)
+[<img src="https://novatorem-peach-two.vercel.app/api/spotify-playing" alt="Akshat's Spotify Playing" width="350" />](https://open.spotify.com/user/47k363e9vyzn0lhnki3cd2r2g)
+<!-- [![Spotify](https://47k363e9vyzn0lhnki3cd2r2g.vercel.app/api/spotify)](https://open.spotify.com/user/47k363e9vyzn0lhnki3cd2r2g) -->
 
 <!--
 ### Hi there 👋
