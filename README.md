@@ -7,8 +7,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatbhat&show_icons=true&theme=algolia&include_all_commits=true" />
 </a>
 
-### 🎧 Currently vibing to
-[![Spotify](https://spotify-now-playing.akshatbhat.vercel.app/api/spotify)](https://open.spotify.com/user/47k363e9vyzn0lhnki3cd2r2g)
+### My Latest Jam 🎧
+[<img src="https://spotify-now-playing.akshatbhat.vercel.app/api/spotify" alt="Akshat's Spotify Playing" width="350" />](https://open.spotify.com/user/47k363e9vyzn0lhnki3cd2r2g)
+<!-- [![Spotify](https://spotify-now-playing.akshatbhat.vercel.app/api/spotify)](https://open.spotify.com/user/47k363e9vyzn0lhnki3cd2r2g) -->
 
 <!--
 ### Hi there 👋
