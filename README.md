@@ -1,4 +1,4 @@
-# [![Akshat Bhat Header](https://raw.githubusercontent.com/AkshatBhat/AkshatBhat/main/Github%20Banner.png?token=ALOALANAQCVNIHN6PYW7FJ27SCIF4)](https://github.com/AkshatBhat)
+# [![Akshat Bhat Header](https://raw.githubusercontent.com/AkshatBhat/AkshatBhat/main/Github%20Banner.png?token=ALOALAO64OQHTNMHFNCFWVC7ZNSHA)](https://github.com/AkshatBhat)
 
 <a href="https://github.com/AkshatBhat/AkshatBhat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatbhat&exclude_repo=Departmental-Store-Management-System,AudioStar&show_icons=true&theme=algolia&include_all_commits=true&hide=css,javascript" />
