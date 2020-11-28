@@ -7,6 +7,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatbhat&show_icons=true&theme=algolia&include_all_commits=true" />
 </a>
 
+### Spotify Playing 🎧
+[![Spotify](https://47k363e9vyzn0lhnki3cd2r2g.vercel.app/api/spotify)](https://open.spotify.com/user/47k363e9vyzn0lhnki3cd2r2g)
 
 <!--
 ### Hi there 👋
