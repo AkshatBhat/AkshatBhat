@@ -37,6 +37,9 @@
     &nbsp;&nbsp;
     <a href="https://instagram.com/akshat_bhat04" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="akshat_bhat04" /></a>
     &nbsp;&nbsp;
+    <a href="https://medium.com/@akshatbhat" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@akshatbhat"/></a>
+    &nbsp;&nbsp;
+    <a href="https://www.leetcode.com/akshatsrbhat" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="akshatsrbhat"/></a>
 </p>
 <p align="left">Just drop in a message and I'll be happy to talk!</p>
 
@@ -87,14 +90,6 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatbhat&show_icons=true&theme=graywhite&include_all_commits=true" />
     </a>
 </p>
-
-<h2 align="left">✍ Check out my blog on
-<a href="https://medium.com/@akshatbhat" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@akshatbhat"/></a>
-</h2>
-
-<h2 align="left">⌨️ My coding profile on
-<a href="https://www.leetcode.com/akshatsrbhat" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="akshatsrbhat"/></a>
-</h2>
 
 <h2>🎧 My Latest Jam</h2>
 <a href="https://open.spotify.com/user/47k363e9vyzn0lhnki3cd2r2g">
