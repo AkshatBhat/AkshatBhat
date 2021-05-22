@@ -88,6 +88,13 @@
     </a>
 </p>
 
+<h2 align="left">✍ Check out my blog on
+<a href="https://medium.com/@akshatbhat" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@akshatbhat"/></a>
+</h2>
+
+<h2 align="left">⌨️ My coding profile on
+<a href="https://www.leetcode.com/akshatsrbhat" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="akshatsrbhat"/></a>
+</h2>
 
 <h2>🎧 My Latest Jam</h2>
 <a href="https://open.spotify.com/user/47k363e9vyzn0lhnki3cd2r2g">
