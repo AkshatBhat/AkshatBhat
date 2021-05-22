@@ -1,7 +1,7 @@
 # [![Akshat Bhat Header](https://raw.githubusercontent.com/AkshatBhat/AkshatBhat/main/Github%20Banner.png?token=ALOALAPJOAKQSY3SNK4WNTTAWJVWQ)](https://github.com/AkshatBhat)
 
 <p align="center">
-    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=AkshatBhat.visitor.badge.reloaded&color=55acb7&style=for-the-badge&logo=Github&text=Profile_Views" alt="Akshat's Profile Views" />
+    <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=AkshatBhat.visitor.badge.reloaded.23.05.2021&color=55acb7&style=for-the-badge&logo=Github&text=Profile_Views" alt="Akshat's Profile Views" />
 </p>
 
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Akshat Bhat!</h1>
