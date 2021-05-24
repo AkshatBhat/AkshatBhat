@@ -29,7 +29,7 @@
 </p>
 
 
-<h2 align="left">☕ Connect with me</h2>
+<h2 align="left">☕ Get in Touch</h2>
 <p align="left">
     <a href="https://twitter.com/akshatbhat04" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="akshatbhat04" /></a>
     &nbsp;&nbsp;
@@ -78,10 +78,10 @@
 </p>
 
 
-<h2 align="left">🚀 Some GitHub Stats for y'all!</h2>
-<p align="left">
+<h2 align="left">🚀 Let's talk numbers</h2>
+<!-- <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatbhat&" alt="akshatbhat" />
-</p>
+</p> -->
 <p align="left">
     <a href="https://github.com/AkshatBhat/AkshatBhat">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatbhat&exclude_repo=Departmental-Store-Management-System,AudioStar&show_icons=true&theme=graywhite&include_all_commits=true&hide=css,javascript,jupyter%20notebook" />
