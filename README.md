@@ -1,8 +1,4 @@
-# [![Akshat Bhat Header](https://raw.githubusercontent.com/AkshatBhat/AkshatBhat/main/Github%20Banner.png?token=ALOALAPJOAKQSY3SNK4WNTTAWJVWQ)](https://github.com/AkshatBhat)
-
-<p align="center">
-    <img src="https://vbr.wocr.tk/badge?page_id=AkshatBhat.visitor.badge.reloaded.23.05.2021&color=55acb7&style=for-the-badge&logo=Github&text=Profile_Views" alt="Akshat's Profile Views" />
-</p>
+<!-- # [![Akshat Bhat Header](https://raw.githubusercontent.com/AkshatBhat/AkshatBhat/main/Github%20Banner.png?token=ALOALAPJOAKQSY3SNK4WNTTAWJVWQ)](https://github.com/AkshatBhat) -->
 
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Akshat Bhat!</h1>
 <p align="center">An avid coder and problem solver, always eager to conduct research, learn new technologies, and develop cool stuff — all while having fun 😄</p>
@@ -16,7 +12,7 @@
 
 ❤️ Am I in love? **Yes, in love with Research and Open Source!**
 
-💻 My latest project is **[Fun With Cartoonista](https://github.com/TrushaT/Fun-With-Cartoonista)**
+💻 My latest project is **[Predicting the Air Quality Index of Indian Cities using Machine Learning](https://github.com/AkshatBhat/H2O-Wave-App-H2O-Olympics-India-Hackathon) - Finished 4th at the H2O World India AI For Good Hackathon 2023**
 
 📚 I’m currently learning **Spark and Scala**
 
@@ -106,9 +102,13 @@
     <img src="https://spotify-now-playing.akshatbhat.vercel.app/api/spotify" alt="Akshat's Spotify Playing" width="350" />
 </a>
 
-<p align="center">
+<h3 align="center">
 <br>
 Thank you for checking out my profile 😊
 <br>
 Have a great day! ✨
+</h3>
+
+<p align="center">
+    <img src="https://vbr.wocr.tk/badge?page_id=AkshatBhat.visitor.badge.reloaded.23.05.2021&color=55acb7&style=for-the-badge&logo=Github&text=Profile_Views" alt="Akshat's Profile Views"/>
 </p>
