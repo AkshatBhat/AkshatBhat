@@ -5,46 +5,54 @@
 </p>
 
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Akshat Bhat!</h1>
-<p align="center">An avid coder who is always eager to learn new technologies while having fun 😄</p>
+<p align="center">An avid coder and problem solver, always eager to conduct research, learn new technologies, and develop cool stuff — all while having fun 😄</p>
 
 <h2 align="left">🏃 Quick Facts About Me</h2>
 <p align="left">
 
-👨‍💻 I am a **Computer Engineering Student** 
+👨‍💻 Currently, I work as a **Software Engineer at UBS** 
 
 🌎 You can always visit me in **Mumbai, India**
 
-❤️ Am I in love? **Yes, in love with Open Source!**
+❤️ Am I in love? **Yes, in love with Research and Open Source!**
 
 💻 My latest project is **[Fun With Cartoonista](https://github.com/TrushaT/Fun-With-Cartoonista)**
 
-📚 I’m currently learning **Flutter**
+📚 I’m currently learning **Spark and Scala**
 
-💬 Ask me anything about **Django, Java, Football and Music**
+💬 Ask me anything about **Python, Java, Machine Learning, NLP**
 
 📫 You can reach out to me at **akshatsrbhat@gmail.com**
 
-😎 When I'm not coding, **I'm writing articles, playing football, listening to music or playing video games**
+😎 When I'm not coding, **I'm tinkering with my Fantasy Premier League team, listening to music, playing video games, or playing football**
 
 </p>
 
 
 <h2 align="left">☕ Get in Touch</h2>
 <p align="left">
-    <a href="https://twitter.com/akshatbhat04" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="akshatbhat04" /></a>
+    <a href="https://linktr.ee/AkshatBhat" target="blank"><img align="center" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="akshatbhat04" /></a>
     &nbsp;&nbsp;
-    <a href="https://linkedin.com/in/akshat-bhat-536472199" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="akshat-bhat-536472199" /></a>
+    <a href="https://linkedin.com/in/akshat-bhat" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="akshat-bhat" /></a>
     &nbsp;&nbsp;
-    <a href="https://instagram.com/akshat_bhat04" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="akshat_bhat04" /></a>
+    <a href="https://twitter.com/akshatbhat04" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="akshatbhat04" /></a>
     &nbsp;&nbsp;
-    <a href="https://medium.com/@akshatbhat" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@akshatbhat"/></a>
+    <a href="mailto:akshatsrbhat@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="akshatsrbhat@gmail.com" /></a>
+    &nbsp;&nbsp;
+    <br>
+    <br>
+    <a href="https://scholar.google.com/citations?hl=en&user=neDmEZwAAAAJ" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" alt="akshat-bhat-google-scholar" /></a>
+    &nbsp;&nbsp;
+    <a href="https://www.kaggle.com/akshatbhat" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="akshatbhat" /></a>
     &nbsp;&nbsp;
     <a href="https://www.leetcode.com/akshatsrbhat" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="akshatsrbhat"/></a>
+    &nbsp;&nbsp;
+    <a href="https://medium.com/@akshatbhat" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@akshatbhat"/></a>  
 </p>
-<p align="left">Just drop in a message and I'll be happy to talk!</p>
+<p align="left">Just drop in a message on LinkedIn or X (formerly Twitter) and I'll be happy to talk!</p>
 
 
-<h2 align="left">⚡ Technologies I'm familiar with</h2>
+<h2 align="left">⚡ Technologies I'm Familiar With</h2>
 
 <p align="left">Languages and Frameworks</p>
 <p align="left">
@@ -78,7 +86,7 @@
 </p>
 
 
-<h2 align="left">🚀 Let's talk numbers</h2>
+<h2 align="left">🚀 Let's Talk Numbers</h2>
 <!-- <p align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatbhat&" alt="akshatbhat" />
 </p> -->
@@ -86,6 +94,8 @@
     <a href="https://github.com/AkshatBhat/AkshatBhat">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatbhat&exclude_repo=Departmental-Store-Management-System,AudioStar&show_icons=true&theme=graywhite&include_all_commits=true&hide=css,javascript,jupyter%20notebook" />
     </a>
+    <br>
+    <br>
     <a href="https://github.com/AkshatBhat/AkshatBhat">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshatbhat&show_icons=true&theme=graywhite&include_all_commits=true" />
     </a>
@@ -100,5 +110,5 @@
 <br>
 Thank you for checking out my profile 😊
 <br>
-If you liked it, a star would be much appreciated ⭐
+Have a great day! ✨
 </p>
