@@ -10,8 +10,6 @@
 
 🌎 You can always visit me in **Mumbai, India**
 
-❤️ Am I in love? **Yes, in love with Research and Open Source!**
-
 💻 My latest project is **[Predicting the Air Quality Index of Indian Cities using Machine Learning](https://github.com/AkshatBhat/H2O-Wave-App-H2O-Olympics-India-Hackathon) - Finished 4th at the H2O World India AI For Good Hackathon 2023**
 
 📚 I’m currently learning **Spark and Scala**
@@ -72,7 +70,7 @@
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
 </p>
 
-
+<!--
 <h2 align="left">💻 My Laptop Specs</h2>
 <p align='left'>
     <img src="https://img.shields.io/badge/os-windows%2010-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -80,13 +78,16 @@
     <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/nvidia-gtx%201050Ti-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
+-->
 
 
 <h2 align="left">🚀 Let's Talk Numbers</h2>
+<!--
 <!-- <p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatbhat&" alt="akshatbhat" />
-</p> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatbhat&" alt="akshatbhat" />
+</p>
 <p align="left">
+-->
     <a href="https://github.com/AkshatBhat/AkshatBhat">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatbhat&exclude_repo=Departmental-Store-Management-System,AudioStar&show_icons=true&theme=graywhite&include_all_commits=true&hide=css,javascript,jupyter%20notebook" />
     </a>
@@ -110,5 +111,5 @@ Have a great day! ✨
 </h3>
 
 <p align="center">
-    <img src="https://vbr.wocr.tk/badge?page_id=AkshatBhat.visitor.badge.reloaded.23.05.2021&color=55acb7&style=for-the-badge&logo=Github&text=Profile_Views" alt="Akshat's Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=AkshatBhat&base=500&abbreviated=true&style=for-the-badge" alt="Akshat's Profile Views" />
 </p>
