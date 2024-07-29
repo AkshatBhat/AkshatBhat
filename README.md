@@ -6,13 +6,13 @@
 <h2 align="left">🏃 Quick Facts About Me</h2>
 <p align="left">
 
-👨‍💻 Currently, I work as a **Software Engineer at UBS** 
+👨‍💻 Currently, I am a **Master's in Computer Science student** at **University of Illinois Urbana-Champaign**. Previously, I worked as a **Software Engineer at UBS** 
 
-🌎 You can always visit me in **Mumbai, India**
+🌎 You can always visit me in **Champaign, Illinois** or **Mumbai, India**
 
 💻 My latest project is **[Predicting the Air Quality Index of Indian Cities using Machine Learning](https://github.com/AkshatBhat/H2O-Wave-App-H2O-Olympics-India-Hackathon) - Finished 4th at the H2O World India AI For Good Hackathon 2023**
 
-📚 I’m currently learning **Spark and Scala**
+📚 I’m currently learning **LLMs, Apache Spark, Scala, and different Azure Cloud Services**
 
 💬 Ask me anything about **Python, Java, Machine Learning, NLP**
 
