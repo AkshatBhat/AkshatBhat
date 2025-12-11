@@ -35,7 +35,7 @@
     &nbsp;&nbsp;
     <br>
     <br>
-    <a href="[https://scholar.google.com/citations?hl=en&user=neDmEZwAAAAJ](https://scholar.google.com/citations?user=9U36Z6kAAAAJ&hl=en)" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" alt="akshat-bhat-google-scholar" /></a>
+    <a href="https://scholar.google.com/citations?user=9U36Z6kAAAAJ&hl=en" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" alt="akshat-bhat-google-scholar" /></a>
     &nbsp;&nbsp;
     <a href="https://www.kaggle.com/akshatbhat" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="akshatbhat" /></a>
     &nbsp;&nbsp;
