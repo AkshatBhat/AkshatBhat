@@ -10,11 +10,11 @@
 
 🌎 You can always visit me in **Champaign, Illinois** or **Mumbai, India**
 
-💻 My latest project is **[Predicting the Air Quality Index of Indian Cities using Machine Learning](https://github.com/AkshatBhat/H2O-Wave-App-H2O-Olympics-India-Hackathon) - Finished 4th at the H2O World India AI For Good Hackathon 2023**
+💻 My latest project is **[Multi-Agent Web Accessibility Improvement System]([https://github.com/AkshatBhat/H2O-Wave-App-H2O-Olympics-India-Hackathon](https://github.com/VirajShah30/Multi-Agent-Web-Accessiblity-Improvement-System))**
 
-📚 I’m currently learning **LLMs, Apache Spark, Scala, and different Azure Cloud Services**
+📚 I’m currently learning and deep-diving into **AI Agents, AI Infra, Computer Vision, Data Structures & Algorithms**
 
-💬 Ask me anything about **Python, Java, Machine Learning, NLP**
+💬 Ask me anything about **Python, Java, Applied Machine Learning, Computer Vision, NLP**
 
 📫 You can reach out to me at **akshatsrbhat@gmail.com**
 
@@ -35,7 +35,7 @@
     &nbsp;&nbsp;
     <br>
     <br>
-    <a href="https://scholar.google.com/citations?hl=en&user=neDmEZwAAAAJ" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" alt="akshat-bhat-google-scholar" /></a>
+    <a href="[https://scholar.google.com/citations?hl=en&user=neDmEZwAAAAJ](https://scholar.google.com/citations?user=9U36Z6kAAAAJ&hl=en)" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" alt="akshat-bhat-google-scholar" /></a>
     &nbsp;&nbsp;
     <a href="https://www.kaggle.com/akshatbhat" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="akshatbhat" /></a>
     &nbsp;&nbsp;
