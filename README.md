@@ -110,7 +110,7 @@
 <p align="left">
 -->
     <a href="https://github.com/AkshatBhat/AkshatBhat">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatbhat&exclude_repo=Departmental-Store-Management-System,AudioStar&show_icons=true&theme=graywhite&include_all_commits=true&hide=css,javascript,jupyter%20notebook" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatbhat&exclude_repo=Departmental-Store-Management-System,AudioStar&show_icons=true&theme=graywhite&include_all_commits=true&hide=c#,css,javascript,jupyter%20notebook" />
     </a>
     <br>
     <br>
