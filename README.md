@@ -33,17 +33,17 @@
     &nbsp;&nbsp;
     <a href="mailto:akshatsrbhat@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="akshatsrbhat@gmail.com" /></a>
     &nbsp;&nbsp;
-    <br>
-    <br>
+    <!-- <br>
+    <br> -->
     <a href="https://scholar.google.com/citations?user=9U36Z6kAAAAJ&hl=en" target="blank"><img align="center" src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" alt="akshat-bhat-google-scholar" /></a>
-    &nbsp;&nbsp;
+    <!-- &nbsp;&nbsp;
     <a href="https://www.kaggle.com/akshatbhat" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="akshatbhat" /></a>
     &nbsp;&nbsp;
     <a href="https://www.leetcode.com/akshatsrbhat" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="akshatsrbhat"/></a>
     &nbsp;&nbsp;
-    <a href="https://medium.com/@akshatbhat" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@akshatbhat"/></a>  
+    <a href="https://medium.com/@akshatbhat" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@akshatbhat"/></a>   -->
 </p>
-<p align="left">Just drop in a message on LinkedIn or X (formerly Twitter) and I'll be happy to talk!</p>
+<p align="left">Just drop in a message on LinkedIn or Gmail and I'll be happy to talk!</p>
 
 
 <h2 align="left">⚡ Technologies I'm Familiar With</h2>
