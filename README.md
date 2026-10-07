@@ -6,7 +6,11 @@
 <h2 align="left">🏃 Quick Facts About Me</h2>
 <p align="left">
 
-👨‍💻 Currently, I am a **Master's in Computer Science student** at **University of Illinois Urbana-Champaign**. Previously, I worked as a **Software Engineer at UBS** 
+👨‍💻 Currently, I am a **Software Development Engineer at Yahoo Inc.**
+
+📚 I graduated with a **Master's in Computer Science** from **University of Illinois Urbana-Champaign** in May 2026.
+
+🏦 Previously, I worked as a **Software Engineer at UBS** 
 
 🌎 You can always visit me in **Champaign, Illinois** or **Mumbai, India**
 
